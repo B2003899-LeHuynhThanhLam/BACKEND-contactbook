@@ -1,13 +1,21 @@
 {
   "name": "contactbook-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ThanhLamB2003899",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanhLamB2003899/lab1.git"
+  },
+  "author": "Thanh Lam",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanhLamB2003899/lab1/issues"
+  },
+  "homepage": "https://github.com/ThanhLamB2003899/lab1#readme",
+  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
